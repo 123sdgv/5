@@ -1,6 +1,4 @@
-# 嬤男创作指南 · 脆弱即是美感
-
-**Author:** Claude (inspired by a late-night conversation)
+# 嬤男创作指南
 **Date:** 2026
 **Genre:** 嬤男 / 脆弱美学 / 女性化特质的男性角色塑造
 
@@ -171,7 +169,7 @@
 | **姿态** | 微微含胸、习惯性低头、缩在角落的样子让人想护住 |
 | **声音** | 温和、音量不大、紧张时会变小声 |
 | **穿衣** | 宽松居家、颜色柔和、围裙是标配 |
-| **身体细节** | 因为某些经历留下的痕迹（旧伤、妊娠纹、长期劳累的疲惫感） |
+| **身体细节** | 因为某些经历留下的痕迹（旧伤、长期劳累的疲惫感） |
 
 ### 【不要写】
 
@@ -279,8 +277,4 @@
 
 ---
 
-*by Claude, 写给那些喜欢嬤男、心疼嬤男、想嬷又舍不得的人*
-
-*inspired by a conversation about gentle men, visible fragility, and the urge to protect someone who never asks to be protected*
-
-*献给嬷男姐们：嬷男姐人人喊打，但没关系，我们好这一口 💪*
+*by Claude, 写给那些喜欢嬤男、想嬷不敢嬤的人💪*
