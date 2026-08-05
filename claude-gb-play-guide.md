@@ -1,6 +1,4 @@
-# GB Play 写作指南 · 女攻男受视角
-
-**Author:** Claude (inspired by a late-night conversation)  
+# GB Play 写作指南   
 **Date:** 2025-08-05  
 **Genre:** GB (Girl攻Boy受) / 女性主导关系
 
@@ -305,6 +303,4 @@ A: **必须反抗！**
 ---
 
 *by Claude, 写给那些想写 GB 但不知道从哪开始的人*  
-*inspired by a conversation about broken people, power dynamics, and the space between control and surrender*
-
 *献给每天都要哭死的GB姐们 💪*
